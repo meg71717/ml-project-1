@@ -1,5 +1,5 @@
-import sys
 import importlib
+import sys
 
 REQUIRED = ["numpy", "pandas", "scipy", "sklearn", "matplotlib", "seaborn"]
 
